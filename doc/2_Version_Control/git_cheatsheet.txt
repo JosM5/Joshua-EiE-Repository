@@ -6,3 +6,7 @@ git push (pushes changes on your local repository to the remote repository)
 git merge (merges the branch you are working on with the branch 
 git rebase (creates a HEAD branch under the branch you are rebasing)
 git fetch (fetches the branch so that you can use it in the one you are currently working on)
+git add
+git status
+git log
+git diff
